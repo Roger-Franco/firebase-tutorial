@@ -6,7 +6,6 @@
 .pnp.js
 
 src/firebase-config.js
-README-install.md
 
 # testing
 /coverage
